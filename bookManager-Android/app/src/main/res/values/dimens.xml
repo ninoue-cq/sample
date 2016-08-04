@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="setting_height">300dp</dimen>
+
+    <!-- アプリ全体で共通のレイアウト -->
+    <dimen name="text_size">12dp</dimen>
+    <dimen name="cell_text">20dp</dimen>
+    <dimen name="text_field_interval">10dp</dimen>
+
+    <!-- 追加、編集画面のレイアウト -->
+    <dimen name="image_view_width">120dp</dimen>
+    <dimen name="image_view_height">150dp</dimen>
+    <dimen name="imageview_margin_top">40dp</dimen>
+    <dimen name="imageview_margin_left">40dp</dimen>
+    <dimen name="imageview_margin_start">54dp</dimen>
+
+    <dimen name="send_button_margin_right">12dp</dimen>
+    <dimen name="send_button_margin_end">20dp</dimen>
+    <dimen name="send_button_margin_top">80dp</dimen>
+
+    <dimen name="detail_margin_top">40dp</dimen>
+    <dimen name="detail_margin_height">300dp</dimen>
+    <dimen name="edit_text_width">300dp</dimen>
+
+    <!-- ログイン画面のレイアウト -->
+    <dimen name="relative_margin_top">80dp</dimen>
+    <dimen name="login_button_margin_top">50dp</dimen>
+    <dimen name="login_button_margin_left">60dp</dimen>
+    <dimen name="login_button_margin_right">60dp</dimen>
+
+    <!-- 設定画面のレイアウト -->
+    <dimen name="to_accountsetting_button">60dp</dimen>
+
+    <!-- リストのセルのレイアウト -->
+    <dimen name="cell_image_margin_right">16dp</dimen>
+    <dimen name="cell_padding">16dp</dimen>
+    <dimen name="cell_linear_width">0dp</dimen>
+
+    android:layout_marginRight="16dp"
+</resources>
